@@ -1,4 +1,4 @@
-# Ishan-Sharma
+# My Portfolio
 [![Live Demo](https://img.shields.io/badge/View-Demo-00C853?style=for-the-badge&logo=vercel)](https://reactbasedportfolio.vercel.app/)
 
 Welcome to my **React.js Portfolio**! 🚀 This is a personal portfolio website showcasing my skills, projects, and contact details.
@@ -59,3 +59,5 @@ my-portfolio/
 
 ### 💖 Thank You!
 If you like this project, feel free to ⭐ the repo and share it with others! 😊
+
+
